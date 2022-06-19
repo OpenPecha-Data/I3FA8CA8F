@@ -1,0 +1,38 @@
+id: I3FA8CA8F
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T09:03:57.676576'
+last_modified: '2022-06-19T09:03:57.676587'
+parser: null
+source_metadata:
+  title: Autobiography of Sa skya bdag chen Kun dga blo gros (1729–1783); Lamdre Lobshe,
+    vol. cha, title no. 2
+  author: bdag chen ngag dbang kun dga blo gros/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-04); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/577
+  bases:
+    8b46:
+      title: Autobiography of Sa skya bdag chen Kun dga blo gros (1729–1783); Lamdre
+        Lobshe, vol. cha, title no. 2
+      order: 1
+      base_file: 8b46.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
